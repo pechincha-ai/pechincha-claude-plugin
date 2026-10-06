@@ -1,0 +1,14 @@
+{
+  "name": "pechincha",
+  "description": "Plugin oficial do Pechincha.ai para o Claude",
+  "owner": {
+    "name": "Pechincha.ai"
+  },
+  "plugins": [
+    {
+      "name": "pechincha",
+      "source": "./",
+      "description": "Promoções, histórico de preço e cupons das lojas online do Brasil"
+    }
+  ]
+}

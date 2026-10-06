@@ -1,0 +1,8 @@
+{
+  "name": "pechincha",
+  "version": "1.0.0",
+  "description": "Promoções, histórico de preço e cupons das lojas online do Brasil",
+  "author": { "name": "Pechincha.ai", "url": "https://pechincha.ai" },
+  "homepage": "https://pechincha.ai/ia",
+  "keywords": ["promoções", "preço", "cupons", "brasil"]
+}
