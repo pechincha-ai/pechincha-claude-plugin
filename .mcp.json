@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "pechincha": { "type": "http", "url": "https://pechincha.ai/mcp" }
+  }
+}
